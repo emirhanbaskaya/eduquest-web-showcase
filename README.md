@@ -1,6 +1,5 @@
-# EduQuest Web 🌐 – AI-Powered Quiz Generator from PDF & PPT
+# EduQuest Web 🌐 – AI-Powered Quiz Generator from PDF & PPTX
 
-![EduQuest Logo](assets/eduquest-web-logo.png)
 
 **EduQuest Web** is the fully redesigned and feature-extended web version of the EduQuest mobile app, tailored for browser-based use. Built using **HTML**, **CSS**, **JavaScript**, and powered by **Firebase (Authentication, Firestore, Cloud Functions)**, this platform enables users to effortlessly turn educational documents into interactive quizzes using AI.
 
@@ -161,7 +160,7 @@ Got feedback or suggestions?
 
 📧 **Email:** [destek@eduquestapp.com](mailto:destek@eduquestapp.com)  
 🔗 **Website:** [https://eduquestapp.com](https://eduquestapp.com)  
-🔐 **Privacy Policy:** [View Here](https://eduquestapp.com/privacy)
+🔐 **Privacy Policy:** [View Here](https://eduquestapp.com/privacy-policy)
 
 ---
 
