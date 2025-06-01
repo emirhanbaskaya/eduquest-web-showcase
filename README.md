@@ -71,7 +71,7 @@ All design elements—including quiz forms, dashboards, and class interfaces—a
 EduQuest Web is designed to guide users through a seamless, step-by-step process of creating quizzes from educational materials. Whether you're a teacher or a student, follow these four intuitive stages to turn any document into a powerful learning tool:
 
 ### 📤 1. Upload Your Materials  
-![Step 1 – Upload](assets/steps/step1.png)
+![Step 1 – Upload](assets/pdf.png)
 
 Upload multiple files at once including **PDFs, PowerPoint presentations, and Word documents**. EduQuest supports a wide range of file formats to accommodate your learning style and resource type.
 
@@ -82,7 +82,7 @@ Upload multiple files at once including **PDFs, PowerPoint presentations, and Wo
 ---
 
 ### ⚙️ 2. Customize Quiz Settings  
-![Step 2 – Customize](assets/steps/step2.png)
+![Step 2 – Customize](assets/page_range.png)
 
 Tailor the quiz generation process to your needs with a rich set of customization options:
 
@@ -95,7 +95,7 @@ Tailor the quiz generation process to your needs with a rich set of customizatio
 ---
 
 ### 🛠️ 3. Edit and Perfect  
-![Step 3 – Edit](assets/steps/step3.png)
+![Step 3 – Edit](assets/editing.png)
 
 You're in full control of the generated content:
 
@@ -107,7 +107,7 @@ You're in full control of the generated content:
 ---
 
 ### 🎯 4. Take or Share the Quiz  
-![Step 4 – Share](assets/steps/step4.png)
+![Step 4 – Share](assets/ssession.png)
 
 Once finalized, use your quiz however you like:
 
