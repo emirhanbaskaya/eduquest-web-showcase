@@ -106,7 +106,7 @@ You're in full control of the generated content:
 ---
 
 ### 🎯 4. Take or Share the Quiz  
-![Step 4 – Share](assets/ssession.png)
+![Step 4 – Share](assets/session.png)
 
 Once finalized, use your quiz however you like:
 
